@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "422448191378",
+    "project_id": "disaster-c814e",
+    "storage_bucket": "disaster-c814e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422448191378:android:db71f54d261574c0d7534b",
+        "android_client_info": {
+          "package_name": "com.abc.disaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhqwQpJp8sFxL3xPQkqSbzetjQHzlPhlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
