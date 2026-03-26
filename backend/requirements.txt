@@ -1,0 +1,26 @@
+fastapi[all]
+uvicorn[standard]
+python-multipart
+python-dotenv
+
+# Firebase
+firebase-admin
+
+# Auth
+python-jose[cryptography]
+bcrypt
+
+# Image processing
+Pillow
+numpy
+opencv-python-headless
+scikit-image
+
+# PDF generation
+reportlab
+
+# HTTP client (used by GEE service)
+httpx
+
+# Google Earth Engine (optional — remove if not using satellite images)
+earthengine-api
